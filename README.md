@@ -17,6 +17,40 @@ This application was developed using React for the frontend and FastAPI with SQL
 * Search stocks by symbol
 * REST API documentation using Swagger UI
 
+## Use Cases
+
+### Portfolio Tracking
+
+Investors can maintain a list of stock holdings and monitor their portfolio performance from a single dashboard. The system provides a consolidated view of investment allocations and portfolio value.
+
+### Investment Analysis
+
+The platform helps users evaluate their investments by tracking performance metrics and comparing individual holdings within the portfolio.
+
+### Asset Allocation Monitoring
+
+Users can understand how their investments are distributed across different assets and identify concentration risks in their portfolio.
+
+### Risk Awareness
+
+The dashboard provides visibility into portfolio composition, allowing investors to make informed decisions about diversification and risk management.
+
+### Financial Planning
+
+Investors can use the platform to review their investment positions regularly and support long-term financial planning objectives.
+
+### Learning and Practice
+
+The application serves as a practical example of how financial dashboards are built using modern web technologies, backend APIs, database management, and data visualization techniques.
+
+### Data-Driven Decision Making
+
+By presenting portfolio information through interactive charts and analytics, the platform enables users to make investment decisions based on organized financial data rather than manual tracking.
+
+### Personal Wealth Management
+
+Individual investors can use the application as a lightweight portfolio management tool to monitor holdings and review investment performance over time.
+
 ## Technology Stack
 
 ### Frontend
